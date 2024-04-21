@@ -1,0 +1,4 @@
+$ sudo playwright install chromium
+$ pip3 install --force-reinstall langchain langchain_community  
+$ pip3 install -U langchain-openai
+$ sudo playwright install firefox
